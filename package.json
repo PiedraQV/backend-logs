@@ -1,4 +1,7 @@
 {
+  "scripts": {
+  "start" : "node server.js"
+  },
   "dependencies": {
     "autocannon": "^7.10.0",
     "bcrypt": "^5.1.0",
@@ -11,11 +14,11 @@
     "knex": "^2.3.0",
     "log4js": "^6.7.0",
     "minimist": "^1.2.7",
-    "mongoose": "^6.6.5",
+    "mongoose": "^6.7.2",
     "mysql": "^2.18.1",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
-    "socket.io": "^4.5.2",
+    "socket.io": "^4.5.3",
     "sqlite3": "^5.1.2"
   }
 }
